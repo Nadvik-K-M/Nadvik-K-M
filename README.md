@@ -8,9 +8,9 @@
 ---
 
 ### 💼 Work Experience
-- **Data Quality Analyst** — [Anakin (YC S21)](https://www.anakin.company) *(Oct 2025 – Present)*  
-- **Data Analyst Intern** — [Emexo Technologies | Bengaluru](https://emexotechnologies.com) *(July 2025 – Oct 2025)*  
-- **Data Science Intern** — [Evoastra Ventures | Bengaluru](https://www.evoastra.com) *(Sept 2022 – Oct 2022)*  
+- **Data Quality Analyst** — [Anakin (YC S21)| Bengaluru| Hybrid](https://www.anakin.company) *(Oct 2025 – Present)*  
+- **Data Analyst Intern** — [Emexo Technologies | Bengaluru| Onsite](https://emexotechnologies.com) *(July 2025 – Oct 2025)*  
+- **Data Science Intern** — [Evoastra Ventures | Bengaluru| Part_Time](https://www.evoastra.com) *(Sept 2022 – Oct 2022)*  
 - **Python & Machine Learning Intern** — [PraLo Tech Solutions | Remote](https://pralotech.com) *(Mar 2025 – Apr 2025)*
 
 ---
