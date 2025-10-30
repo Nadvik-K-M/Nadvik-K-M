@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadvik K M</h1>
-<h3 align="center">Data Quality Analyst at [Anakin (YC S21)](https://www.anakin.company) | Data & AI Enthusiast</h3>
+<h3 align="center">Data Quality Analyst at [Anakin (YC S21)] | Data & AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nadvik-k-m&label=Profile%20views&color=0e75b6&style=flat" alt="nadvik-k-m" />
