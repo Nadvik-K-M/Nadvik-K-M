@@ -72,7 +72,7 @@
 
 ---
 
-📫 **Reach me at:** [nadvikhowda@gmail.com](mailto:nadvikhowda@gmail.com)
+📫 **Reach me at:** [nadvikgowda@gmail.com](mailto:nadvikgowda@gmail.com)
 
 ---
 
