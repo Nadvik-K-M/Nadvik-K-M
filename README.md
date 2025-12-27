@@ -122,6 +122,22 @@
 
 </div>
 
+## 💻 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nadvik-k-m&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🧠 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadvik-k-m&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🛠️ Skills & Tools
+<!-- badges from above -->
+
+
 ---
 
 <div align="center">
