@@ -94,8 +94,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/nadvik-k-m)
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/mr_.nadvik._)
+<a href="https://www.linkedin.com/in/nadvik-k-m"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a>
+<a href="https://instagram.com/mr_.nadvik._"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>
 
 **📫 Email:** [nadvikgowda@gmail.com](mailto:nadvikgowda@gmail.com)
 
@@ -108,12 +108,16 @@
 <div align="center">
 
 <a href="https://github.com/nadvik-k-m">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadvik-k-m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadvik-k-m&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nadvik-k-m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" />
+</a>
+<a href="https://github.com/nadvik-k-m">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadvik-k-m&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
+<br />
+
 <a href="https://github.com/nadvik-k-m">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadvik-k-m&theme=tokyonight&hide_border=true" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadvik-k-m&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
