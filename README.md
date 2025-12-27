@@ -125,8 +125,14 @@
 ## 💻 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadvik-k-m&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nadvik-k-m&show_icons=true&theme=tokyonight&border_color=FFFFFF&title_color=82AAFF&text_color=D6DEEB&icon_color=61DAFB"
+    alt="Nadvik's GitHub Stats" 
+  />
 </p>
+
+
+
 
 ### 🧠 Top Languages
 
