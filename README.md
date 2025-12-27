@@ -110,14 +110,9 @@
 <a href="https://github.com/nadvik-k-m">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nadvik-k-m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </a>
-
-<div width="48%">
-  <h3>Most Used Tools & Languages</h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50" />
-</div>
+<a href="https://github.com/nadvik-k-m">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadvik-k-m&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
 
 <br />
 
