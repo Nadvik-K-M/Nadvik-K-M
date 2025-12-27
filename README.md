@@ -122,27 +122,25 @@
 
 </div>
 
+---
+
 ## 💻 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=nadvik-k-m&show_icons=true&theme=tokyonight&border_color=FFFFFF&title_color=82AAFF&text_color=D6DEEB&icon_color=61DAFB"
-    alt="Nadvik's GitHub Stats" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nadvik-k-m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nadvik's GitHub Stats" />
 </p>
-
-
-
 
 ### 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadvik-k-m&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadvik-k-m&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages Used by Nadvik" />
 </p>
 
-## 🛠️ Skills & Tools
-<!-- badges from above -->
+### 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadvik-k-m&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
@@ -153,3 +151,4 @@
 **Feel free to connect and collaborate!**
 
 </div>
+
