@@ -105,23 +105,23 @@
 
 ---
 
-## 💻 GitHub Stats
+
+### 🧠 GitHub Status
+
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nadvik-k-m&show_icons=true&theme=tokyonight&count_private=true" alt="Nadvik's GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadvik-k-m&theme=tokyonight&hide_border=true" width="280px" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=nadvik-k-m&show_icons=true&theme=tokyonight&hide_border=true&card_width=280" width="280px" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nadvik-k-m&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&card_width=280" width="280px" />
+
 </p>
 
-### 🧠 Top Languages
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadvik-k-m&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages Used by Nadvik" />
-</p>
 
-### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadvik-k-m&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
 
 ---
 
